@@ -1,4 +1,4 @@
--- Copyright 2020-2022 Rafa³ Wabik (IceG) - From eko.one.pl forum
+-- Copyright 2020-2022 Rafaï¿½ Wabik (IceG) - From eko.one.pl forum
 -- Licensed to the GNU General Public License v3.0.
 
 
